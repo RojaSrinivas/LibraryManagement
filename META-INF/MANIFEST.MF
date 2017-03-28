@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: res/layout/renewbook.xml
+SHA1-Digest: kDheVJmaIOtPNy2QkDHJyu8j+QU=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: res/drawable-hdpi/backgroundtwo.jpg
+SHA1-Digest: Goo4bGzqGBOO3rvuZmz7Cy7w4qs=
+
+Name: res/layout/changepasswotd.xml
+SHA1-Digest: bgEp9xjvau3QWt+IMOa+Vh1/HyY=
+
+Name: res/drawable-hdpi/twoback.jpg
+SHA1-Digest: gBxEZlQFIHs15WV7JsMFsH8Juzc=
+
+Name: res/drawable-hdpi/background.jpg
+SHA1-Digest: zhMTYn4Q4ZYOemQoL/W8F26+khs=
+
+Name: res/layout/viewdeatils.xml
+SHA1-Digest: yq4PS2DGxrSVt/CWnfuAgv6w3Tk=
+
+Name: resources.arsc
+SHA1-Digest: PT9Aru1hsWYsC8hdjExfGY51RY4=
+
+Name: classes.dex
+SHA1-Digest: Pztl63oryPsdSrsWJNunz13Zceg=
+
+Name: res/drawable-hdpi/backgroundone.jpg
+SHA1-Digest: Uw70UfcTPzuF5/+gVfBvzCRLkjc=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: res/drawable-hdpi/liblogo.jpg
+SHA1-Digest: pM3zgehT12JqRBmL1HM9N2amwp8=
+
+Name: res/drawable-hdpi/oneback.jpg
+SHA1-Digest: 5iwZqK6nrNpHfvdISrzp+MOScJE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XzHnWayXzEUoWqzFB1mvvbhCVLo=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: res/layout/bookdetails.xml
+SHA1-Digest: bMVYf8aZOHoiKhMrz0ThNslns24=
+
+Name: res/layout/search2.xml
+SHA1-Digest: f5xHN4s7+3x19ruPaTrPtfQSxuA=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: Nui6qeRnWssUWCd6/YnQbTGKNOM=
+
+Name: res/layout/options.xml
+SHA1-Digest: AkLOGZxx+vZZsjcLgr6aeh5KXUk=
+
+Name: res/layout/returnbook.xml
+SHA1-Digest: CI8FKmmA7WfxJXt9lrRXGbSukwU=
+
+Name: res/layout/search.xml
+SHA1-Digest: +pvGrGxg+yhcCHann4iHKSm8KWM=
+
+Name: res/layout/takesbook.xml
+SHA1-Digest: EOwPnVYradGOShmNUDFq0IkxHI8=
+
